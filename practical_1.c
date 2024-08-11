@@ -1,3 +1,5 @@
+//Practical-1
+//Array Operation (Creation of array and search an element in that array using linear search)
 #include<stdio.h>
 void main(){
     int a[100],n,i,num,found=0;
