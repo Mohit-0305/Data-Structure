@@ -1,5 +1,6 @@
+//Practial 2
+//Deleting an element from a specific position
 #include <stdio.h>
-
 void main()
 {
     int a[100], pos, i, n;
