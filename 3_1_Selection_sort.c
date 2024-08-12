@@ -1,3 +1,5 @@
+//Practical 3
+//Selection Sort
 #include <stdio.h>
 int main() {
  int a[100], n, i, num, position, t;
