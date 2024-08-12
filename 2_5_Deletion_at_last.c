@@ -1,3 +1,5 @@
+//Practical 2
+//Deleting Last position in an array
 #include<stdio.h>
 void main(){
     int a[5],i;
